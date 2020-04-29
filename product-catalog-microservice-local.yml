@@ -1,0 +1,10 @@
+products:
+  displayCount: 5
+  sortBy: name
+db:
+  server:
+    hostname: localhost
+    port: 27018
+  database:
+    name: products
+    collectionName: products
