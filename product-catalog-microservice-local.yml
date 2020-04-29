@@ -1,10 +1,9 @@
 products:
   displayCount: 5
   sortBy: name
-db:
-  server:
-    hostname: localhost
-    port: 27018
-  database:
-    name: products
-    collectionName: products
+spring:
+   data:
+      mongodb:
+         database: products
+         port: 27018
+         host: 192.168.29.66
