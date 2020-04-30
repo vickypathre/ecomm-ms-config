@@ -6,4 +6,4 @@ spring:
       mongodb:
          database: products
          port: 27017
-         host: 192.168.99.66
+         host: 192.168.99.100
