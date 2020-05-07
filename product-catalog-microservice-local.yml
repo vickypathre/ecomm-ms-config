@@ -3,7 +3,7 @@ products:
   sortBy: name
 db:
   server:
-    hostname: mongodb
+    hostname: 127.0.0.1
     port: 27017
   database:
     name: products
